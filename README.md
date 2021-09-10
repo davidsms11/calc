@@ -1,1 +1,1 @@
-# calc
+# A mini Project calculator 
